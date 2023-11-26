@@ -1,0 +1,17 @@
+name: baby_monitor_app
+description: A baby monitoring app using Flutter.
+
+environment:
+  sdk: '>=2.12.0 <3.0.0' # Replace with your desired Flutter SDK version range
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_webrtc: ^0.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
