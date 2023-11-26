@@ -1,7 +1,6 @@
 # baby_monitor_app
 
-A new Flutter project.
-
+Trying to build a baby monitoring app in flutter without much effort using chat gpt
 ## Getting Started
 
 This project is a starting point for a Flutter application.
